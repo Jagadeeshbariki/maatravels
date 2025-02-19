@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Home",
+        "link":"/"
+    },
+    {
+        "name":"About Us",
+        "link":"/about"
+    },
+    {
+        "name":"Package",
+        "link":"/package"
+    },
+    {
+        "name":"Contact Us",
+        "link":"/contact"
+    }
+    
+]

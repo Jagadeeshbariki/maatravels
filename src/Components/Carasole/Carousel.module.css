@@ -1,0 +1,17 @@
+.CarouselImgContainer{
+    position: relative;
+    text-align: center;
+    background-color: lightcoral;
+}
+
+.CarouselImg{
+    width: 70%;
+    height: 500px;
+}
+
+@media (max-width:500px) {
+    .CarouselImg{
+        width: 100%;
+        height: auto;
+    }
+}

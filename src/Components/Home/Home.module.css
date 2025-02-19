@@ -1,0 +1,10 @@
+.HomeContainer{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.CarouselCantainer{
+    width: 100%;
+    
+}

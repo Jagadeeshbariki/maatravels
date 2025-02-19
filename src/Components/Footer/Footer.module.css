@@ -1,0 +1,9 @@
+.FooterContainer{
+    background-color: #00008b;
+    color: white;
+    padding: 20px;
+}
+
+.MenuContainer p{
+    cursor: pointer;
+}
