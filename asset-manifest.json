@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/maatravels/static/css/main.72c49759.css",
+    "main.js": "/maatravels/static/js/main.694da438.js",
+    "static/js/453.eecfb52b.chunk.js": "/maatravels/static/js/453.eecfb52b.chunk.js",
+    "static/media/Tourist.png": "/maatravels/static/media/Tourist.ac1f9ca2f28cfe7ca7e7.png",
+    "static/media/PlainBg.png": "/maatravels/static/media/PlainBg.0343f46ed4a249c3fb86.png",
+    "index.html": "/maatravels/index.html",
+    "main.72c49759.css.map": "/maatravels/static/css/main.72c49759.css.map",
+    "main.694da438.js.map": "/maatravels/static/js/main.694da438.js.map",
+    "453.eecfb52b.chunk.js.map": "/maatravels/static/js/453.eecfb52b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c49759.css",
+    "static/js/main.694da438.js"
+  ]
+}
