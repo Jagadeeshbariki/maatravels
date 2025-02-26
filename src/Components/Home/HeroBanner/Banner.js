@@ -12,7 +12,7 @@ const Banner = () => {
         <p>Maa Tourism offers exceptional travel experiences with personalized planning and unmatched service. We ensure every journey is seamless, memorable, and better than what others provide, turning your travel dreams into cherished memories.</p>
      </div>
      
-    <button className={`${styles.JoiningBtn}`}><a href='https://wa.me/919160782356?text="I%20Want%20To%20Trip%20With%20You' target='_blank' rel='noreferrer'>Trip With Us</a></button>
+    <button className={`${styles.JoiningBtn}`}><a href='https://wa.me/9642841566?text="I%20Want%20To%20Trip%20With%20You' target='_blank' rel='noreferrer'>Trip With Us</a></button>
     </div>
   )
 }
