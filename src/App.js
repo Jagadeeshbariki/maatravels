@@ -19,7 +19,7 @@ function App() {
        </div>
        <Menu/>
        <div className="WhatsApp">
-        <a href='https://wa.me/919160782356?text="I%20Want%20To%20Trip%20With%20You' target='_blank' rel='noreferrer'>Trip With Us</a>
+       <a href='https://wa.me/9642841566?text=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20travel%20services' target='_blank' rel='noreferrer'>Trip With Us</a>
        </div>
       </header>
       <Home/>
