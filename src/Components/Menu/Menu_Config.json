@@ -1,19 +1,8 @@
 [
-    {
-        "name":"Home",
-        "link":"/"
-    },
-    {
-        "name":"About Us",
-        "link":"/about"
-    },
-    {
-        "name":"Package",
-        "link":"/package"
-    },
-    {
-        "name":"Contact Us",
-        "link":"/contact"
-    }
+    { "id": "home", "name": "Home" },
+    { "id": "about", "name": "About Us" },
+    { "id": "contact", "name": "Contact" },
+    { "id": "packages", "name": "Packages" }
     
-]
+  ]
+  
