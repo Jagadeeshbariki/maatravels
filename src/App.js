@@ -45,7 +45,7 @@ function App() {
       <div ref={contactRef}><Contact/></div>
       <div ref={packageRef}><Package/></div>
       
-      <div><Footer/></div>
+      <div><Footer scrollToSection={scrollToSection} homeRef={homeRef} aboutRef={aboutRef} packageRef={packageRef} contactRef={contactRef}/></div>
 
       {/* Implementing the virtual Botton  */}
       <ScrollToTop/>

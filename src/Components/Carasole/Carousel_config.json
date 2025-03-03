@@ -8,7 +8,7 @@
     },
     {
         "Intervel":2000,
-        "CarText":"Second Slide",
+        "CarText":"Chennai",
         "ImgUrl":"https://kaldanhotels.com/blog/wp-content/uploads/2023/07/blog-image-1.jpg",
         "CarLable":"Chennai(1N) - Pondichery(2N) - Mahabalipuram(2N)",
         "ImgDescription":"5 Nights / 6 Days Trip"
@@ -22,7 +22,7 @@
     },
     {
         "Intervel":2000,
-        "CarText":"Forth slide",
+        "CarText":"Himalaya",
         "ImgUrl":"https://res.cloudinary.com/davyumn8l/image/upload/v1739983770/jan_brelih_himalaya_trekking_aeche0.jpg",
         "CarLable":"Himalaya Trecking Packages",
         "ImgDescription":"2 Nights / 3 Day Trip"
@@ -36,14 +36,14 @@
     },
     {
         "Intervel":2000,
-        "CarText":"Forth slide",
+        "CarText":"Dubai",
         "ImgUrl":"https://res.cloudinary.com/davyumn8l/image/upload/v1739983887/11_gr0tg7.jpg",
-        "CarLable":"Debai ",
+        "CarLable":"Dubai ",
         "ImgDescription":"4 Nights / 5 Day Trip"
     },
     {
         "Intervel":1000,
-        "CarText":"Forth slide",
+        "CarText":"Singapre",
         "ImgUrl":"https://res.cloudinary.com/davyumn8l/image/upload/v1739983984/timelapse-night-changing-evening-kuala-lumpur-malaysia_38187-1800_ymkycz.jpg",
         "CarLable":"Malaysia & Singapre ",
         "ImgDescription":"6 Nights / 7 Day Trip"
