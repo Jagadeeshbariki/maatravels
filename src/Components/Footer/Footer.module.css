@@ -1,16 +1,51 @@
-.FooterContainer{
+.FooterContainer {
     background-color: #00008b;
     color: white;
     padding: 20px;
     display: flex;
+    flex-direction: row;  /* Stack elements vertically on mobile */
     justify-content: space-evenly;
 }
 
-.MenuContainer p{
-    cursor: pointer;
+.MenuContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
-.aboutDev a{
+.MenuContainer p {
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.aboutDev a {
     text-decoration: none;
     color: white;
+    font-size: 14px;
+}
+
+/* Google Maps iframe - Make it responsive */
+.FooterContainer iframe {
+    width: 100%;
+    max-width: 400px;
+    height: 180px;
+    border-radius: 10px;
+    border: none;
+}
+
+/* Adjust styles for tablets and larger screens */
+@media (max-width: 786px) {
+    .FooterContainer {
+        flex-direction: column;
+        justify-content: space-evenly;
+        text-align: left;
+        align-items: center;
+        
+    }
+
+    .MenuContainer {
+        flex-direction: row;
+        align-items: flex-start;
+        flex-wrap: wrap;
+    }
 }
